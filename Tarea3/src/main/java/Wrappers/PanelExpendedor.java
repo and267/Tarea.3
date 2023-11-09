@@ -1,6 +1,6 @@
 package Wrappers;
 
-import Tarea1.*;
+import Logica.*;
 
 import javax.swing.*;
 import java.awt.*;
