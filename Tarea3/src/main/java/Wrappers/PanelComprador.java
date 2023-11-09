@@ -1,9 +1,9 @@
 package Wrappers;
 
 import Principal.BotonesItems;
-import Tarea1.NoHayProductoException;
-import Tarea1.PagoIncorrectoException;
-import Tarea1.PagoInsuficienteException;
+import Logica.NoHayProductoException;
+import Logica.PagoIncorrectoException;
+import Logica.PagoInsuficienteException;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
