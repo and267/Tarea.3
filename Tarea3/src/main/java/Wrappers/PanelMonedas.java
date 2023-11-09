@@ -1,7 +1,7 @@
 package Wrappers;
 
 import Principal.RadioButtonConImagen;
-import Tarea1.*;
+import Logica.*;
 
 import javax.swing.*;
 import java.awt.*;
