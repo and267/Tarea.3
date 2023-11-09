@@ -1,10 +1,10 @@
 package Wrappers;
 
-/*Clase PanelDepositos contiene los productos que serán proyectados en la interfaz gráfica*/
-import Tarea1.Expendedor;
-
+import Logica.Expendedor;
 import javax.swing.*;
 import java.awt.*;
+
+/*Clase PanelDepositos contiene los productos que serán proyectados en la interfaz gráfica*/
 
 public class PanelDepositos extends JPanel {
     private int size;
